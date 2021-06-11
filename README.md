@@ -6,7 +6,8 @@
 
 파이선 통합개발환경인 pycharm에서 pygame라이브러리를 임폴트하여 개발
 
-<p alt="pycharm" text-align=center ><img src="https://user-images.githubusercontent.com/83719746/121512306-8988a800-ca24-11eb-98b9-f2664741f20a.png" width=150>pycharm</p><p alt ="pygame" text-align=center><img src="https://user-images.githubusercontent.com/83719746/121512508-c05ebe00-ca24-11eb-9680-ca3a093b340d.png" width =150 ></p>
+<p alt="pycharm"><img src="https://user-images.githubusercontent.com/83719746/121512306-8988a800-ca24-11eb-98b9-f2664741f20a.png" width=150></p><p alt ="pygame"><img src="https://user-images.githubusercontent.com/83719746/121512508-c05ebe00-ca24-11eb-9680-ca3a093b340d.png" width =150 ></p>
+<figcaption style="text-align:center>pycharm</figcaption>
 
 
 ## 게임 소개
