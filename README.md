@@ -14,6 +14,7 @@
 
 > 게임 이름 : jelly Attack
 
-> 특징 : 젤리를 총으로 쏴서 점수를 얻는 2D 횡스크롤 슈팅게임
-> 
-> 
+> 젤리를 총으로 쏴서 점수를 얻는 2D 횡스크롤 슈팅게임
+
+<img src="https://user-images.githubusercontent.com/83719746/121690231-8f53bb80-cb00-11eb-9c51-f2e43a44cd9f.png"width=200> 
+
