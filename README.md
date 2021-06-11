@@ -17,7 +17,7 @@
 > 젤리를 총으로 쏴서 점수를 얻는 2D 횡스크롤 슈팅게임
 
 > 캐릭터는 좌우 이동과 점프 총쏘기 동작을 할 수 있습니다.
-<img src="https://user-images.githubusercontent.com/83719746/121693676-53225a00-cb04-11eb-9cea-f5c9b2c28c7e.png" width=400>
+<p align="center"><img src="https://user-images.githubusercontent.com/83719746/121693676-53225a00-cb04-11eb-9cea-f5c9b2c28c7e.png" ></p>
 
 > 한정된 체력이 있고 젤리와 닿으면 체력이 감소하며 체력이 0이 될때마다 게임 오버 카운트에 해당되는 하트를 잃게 됩니다. 하트를 전부 잃으면 게임이 종료됩니다.
 
